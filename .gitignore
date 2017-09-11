@@ -120,3 +120,8 @@ nb-configuration.xml
 .vscode/
 
 /results/
+
+# Eclipse
+.settings/
+.project
+.buildpath
